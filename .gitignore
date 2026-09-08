@@ -1,0 +1,38 @@
+﻿# Виртуальное окружение
+venv/
+env/
+.env
+
+# Файлы IDE
+.idea/
+*.iml
+.vscode/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+logs/
+
+# Секреты и конфиги
+*.key
+*.pem
+config.ini
+secrets.json
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Файлы ComfyUI
+output/
+input/
+temp/
