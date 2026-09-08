@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "F33L Kit",
+      "hasCanvas": false,
+      "bodyTextLen": 1500,
+      "bodyTextHash": "2771bae48fc8d4da31e3ac92d19f077d5bbdc3dad7e5cdc9f80e0595e0d30729",
+      "bodyTextPrefix": "POST-INSTALL F33L Kit Конструктор первой загрузки Windows. Winge",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "F33L Kit",
+      "hasCanvas": false,
+      "bodyTextLen": 1500,
+      "bodyTextHash": "2771bae48fc8d4da31e3ac92d19f077d5bbdc3dad7e5cdc9f80e0595e0d30729",
+      "bodyTextPrefix": "POST-INSTALL F33L Kit Конструктор первой загрузки Windows. Winge",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
